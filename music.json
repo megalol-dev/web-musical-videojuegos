@@ -1,0 +1,40 @@
+{
+    "juegos": [
+        {
+            "id": "mario",
+            "nombre": "Mario",
+            "canciones": [
+                {
+                    "title": "Tema Original",
+                    "file": "music/Mario_original.mp3"
+                },
+                {
+                    "title": "Tuberías",
+                    "file": "music/Mario_tuberias.mp3"
+                },
+                {
+                    "title": "Mario & Yoshi",
+                    "file": "music/Mario_yoshi.mp3"
+                }
+            ]
+        },
+        {
+            "id": "pokemon",
+            "nombre": "Pokémon",
+            "canciones": [
+                {
+                    "title": "Batalla Pokémon",
+                    "file": "music/Pokemon_batalla.mp3"
+                },
+                {
+                    "title": "Introducción",
+                    "file": "music/Pokemon_intro.mp3"
+                },
+                {
+                    "title": "Introducción Alternativa",
+                    "file": "music/Pokemon_intro2.mp3"
+                }
+            ]
+        }
+    ]
+}

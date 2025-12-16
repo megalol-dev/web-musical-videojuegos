@@ -1,0 +1,17 @@
+
+1) REQUISITOS
+- Tener PHP instalado en el PC (comprobar con: php -v)
+- NO abrir index.html con doble click (file://) porque PHP no funciona así.
+- Necesitas ejecutar el proyecto con un servidor.
+
+────────────────────────────────────────────────────────
+2) ARRANQUE DEL SERVIDOR
+- Abre terminal en la carpeta del proyecto (donde está index.html).
+- Ejecuta:
+   php -S localhost:8000
+- Abre en el navegador:
+   http://localhost:8000/index.html
+
+(Para parar el servidor: Ctrl + C)
+
+
